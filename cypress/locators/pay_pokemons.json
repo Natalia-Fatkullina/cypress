@@ -1,0 +1,10 @@
+{
+    "card_number": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+    "date": ":nth-child(1) > .pay_base-input-v2",
+    "cvv":".pay-inputs-box > :nth-child(2) > .pay_base-input-v2",
+    "name":".pay__input-box-last-of > .pay_base-input-v2",
+    "pay":".pay-btn",
+    "sms_code":"#cardnumber",
+    "paymet":".payment__submit-button"
+
+}

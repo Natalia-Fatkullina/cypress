@@ -1,0 +1,18 @@
+{
+    "title": ".auth__title", 
+    "subtitle":"p.auth__text", 
+
+    "email": ":nth-child(1) > .auth__input",
+    "password": "#password",
+    "fogot_pass_btn": ".auth__restore", 
+    "login_button": ".auth__button", 
+    "register": ".auth__form > .auth__text", 
+    
+    "footer_logo": ".footer__logo > div", 
+    "footer_studio":".footer__studio", 
+    "footer_info":".status_url > img", 
+    "window": "login__content"
+
+     
+  }
+  
